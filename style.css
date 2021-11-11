@@ -17,11 +17,23 @@ body {
   display: flex;
 }
 
-.js, .jquery {
-  margin: 5rem;
+h1 {
+  font-size: 24px;
+}
+
+.js, .jquery, .tisch_js {
+  margin: 2rem;
   padding: 5rem;
   border: 1px solid black;
   border-radius: 5px;
   box-shadow: .5rem .5rem 1rem gray;
   background-color: white;
+}
+
+.js {
+  background-color: rgb(212, 223, 238);
+}
+
+.tisch_js {
+  background-color: rgb(255, 234, 244);
 }

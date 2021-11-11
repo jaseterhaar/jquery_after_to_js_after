@@ -9,3 +9,5 @@ div.innerHTML = 'Geen geldig telefoonnummer!';
 let billingPhoneJs = document.getElementById('billing_phone_js');
 // We plaatsen de zojuist gemaakte div achter het gevonden element
 billingPhoneJs.after(div);
+
+//Hieronder kan je jouw oplossing doen
